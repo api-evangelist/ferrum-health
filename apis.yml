@@ -1,9 +1,29 @@
 aid: ferrum-health
 name: Ferrum Health
-description: 'Ferrum Health is a company surfaced as a portfolio company of foundry-group and added to
-  the API Evangelist network as a stub for enrichment. Sector: healthcare-ai. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Ferrum Health is a healthcare AI governance company whose AI Governance
+  Suite lets health systems deploy, validate, orchestrate, and monitor clinical AI
+  models securely behind their own firewall, without protected health information leaving
+  the health system. The vendor-neutral, privately deployed platform integrates once
+  with existing EMR, PACS, and worklist infrastructure, then routes every clinical
+  AI model — FDA-cleared, CE-marked, open-source, or homegrown — through a single secure
+  path via its Deployment Fabric, curates 60+ applications in its Model Hub across
+  radiology, cardiology, oncology, neurology, and musculoskeletal specialties, and
+  continuously links predictions, ground truth, and outcomes for bias and drift detection
+  through its Observability Lens. It is SOC 2 Type II, ISO 27001, HIPAA, and GDPR aligned,
+  and is used by Sutter Health, Carle Health, and 250+ sites.'
 url: https://raw.githubusercontent.com/api-evangelist/ferrum-health/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/68dab5010b8629fb1e89546e/6910cd4eae66f90dd22eaad3_Ferrum_Social-preview.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +32,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
-- Healthcare Ai
+- Healthcare AI
+- Clinical AI
+- AI Governance
+- Medical Imaging
+- Radiology
+- Patient Safety
+- Machine Learning
+- Healthcare
+- Compliance
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +53,26 @@ maintainers:
 common:
 - type: Website
   url: https://ferrumhealth.com
+- type: Blog
+  url: https://44308974.hs-sites.com/ferrum-health-blog
+- type: Support
+  url: https://www.ferrumhealth.com/contact-us
+- type: PrivacyPolicy
+  url: https://www.ferrumhealth.com/privacy-policy
+- type: TrustCenter
+  url: security/ferrum-health-trust-center.yml
+- type: Compliance
+  url: https://app.drata.com/trust/c68fe3bd-9955-4410-a324-c18c407d03a5/
+- type: Conformance
+  url: conformance/ferrum-health-conformance.yml
+- type: DomainSecurity
+  url: security/ferrum-health-domain-security.yml
+- type: WellKnown
+  url: well-known/ferrum-health-well-known.yml
+- type: LLMsTxt
+  url: llms/ferrum-health-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

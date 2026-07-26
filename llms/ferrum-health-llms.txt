@@ -1,0 +1,26 @@
+# Ferrum Health
+
+> Ferrum Health is a healthcare AI governance company. Its AI Governance Suite lets health systems deploy, validate, orchestrate, and monitor clinical AI models securely behind their own firewall, without protected health information leaving the health system. The vendor-neutral, privately deployed platform integrates once with existing EMR, PACS, and worklist infrastructure and routes every clinical AI model — FDA-cleared, CE-marked, open-source, or homegrown — through a single secure path.
+
+Ferrum Health publishes no public API, OpenAPI, SDK, or developer portal. This profile is a company/provider record in the API Evangelist network. Sources below are the company's public marketing, compliance, and content surfaces.
+
+## Platform
+- [AI Governance Suite — Platform & Tech](https://www.ferrumhealth.com/platform-and-tech): Deployment Fabric, Model Hub (60+ FDA-cleared/CE-marked/open-source/homegrown apps across radiology, cardiology, oncology, neurology, musculoskeletal), and Observability Lens for bias/drift detection.
+- [Solutions](https://www.ferrumhealth.com/solutions): Clinical AI governance solutions for health systems.
+- [Partnerships](https://www.ferrumhealth.com/partnerships): Integration and model partners (e.g. HOPPR, Google HAI-DEF).
+
+## Company
+- [Website](https://ferrumhealth.com)
+- [About Us](https://www.ferrumhealth.com/company)
+- [Customer Stories](https://www.ferrumhealth.com/customer-stories): Sutter Health, Carle Health, 250+ sites.
+- [Contact Us](https://www.ferrumhealth.com/contact-us)
+
+## Content
+- [Blog](https://44308974.hs-sites.com/ferrum-health-blog)
+- [Newsroom](https://www.ferrumhealth.com/newsroom)
+- [Resource Center](https://www.ferrumhealth.com/resource-center)
+
+## Security & Compliance
+- [Trust Center (Drata)](https://app.drata.com/trust/c68fe3bd-9955-4410-a324-c18c407d03a5/): SOC 2 Type II, ISO 27001.
+- [Privacy Policy](https://www.ferrumhealth.com/privacy-policy)
+- Compliance posture: SOC 2 Type II, ISO 27001, HIPAA, GDPR.
