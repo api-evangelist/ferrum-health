@@ -12,6 +12,17 @@ description: 'Ferrum Health is a healthcare AI governance company whose AI Gover
   through its Observability Lens. It is SOC 2 Type II, ISO 27001, HIPAA, and GDPR aligned,
   and is used by Sutter Health, Carle Health, and 250+ sites.'
 url: https://raw.githubusercontent.com/api-evangelist/ferrum-health/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
