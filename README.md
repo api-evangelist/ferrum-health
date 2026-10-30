@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ferrum Health is a company surfaced as a portfolio company of foundry-group and added to the API Evangelist network as a stub for enrichment. Sector: healthcare-ai. This profile is a lead awaiting the enrichment pipeline.
+Ferrum Health is a healthcare AI governance company whose AI Governance Suite lets health systems deploy, validate, orchestrate, and monitor clinical AI models securely behind their own firewall, without protected health information leaving the health system. The vendor-neutral, privately deployed platform integrates once with existing EMR, PACS, and worklist infrastructure, then routes every clinical AI model — FDA-cleared, CE-marked, open-source, or homegrown — through a single secure path via its Deployment Fabric, curates 60+ applications in its Model Hub across radiology, cardiology, oncology, neurology, and musculoskeletal specialties, and continuously links predictions, ground truth, and outcomes for bias and drift detection through its Observability Lens. It is SOC 2 Type II, ISO 27001, HIPAA, and GDPR aligned, and is used by Sutter Health, Carle Health, and 250+ sites.
 
-Backed by: foundry-group — https://ferrumhealth.com
+**Areas:** Company · Healthcare AI · Clinical AI · AI Governance · Medical Imaging · Radiology · Patient Safety · Machine Learning · Healthcare · Compliance
+
+## Ferrum Health on APIs.io
+
+Everything profiled for Ferrum Health is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ferrum-health/](https://apis.io/providers/ferrum-health/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ferrum Health Domain Security](https://apis.io/security/ferrum-health/ferrum-health-domain-security/)
+- [Ferrum Health Trust Center](https://apis.io/security/ferrum-health/ferrum-health-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ferrumhealth.com)
+- [Support](https://www.ferrumhealth.com/contact-us)
+- [Blog](https://44308974.hs-sites.com/ferrum-health-blog)
+- [Compliance](https://app.drata.com/trust/c68fe3bd-9955-4410-a324-c18c407d03a5/)
+- [Privacy policy](https://www.ferrumhealth.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 11.3** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 15.8 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ferrum-health/](https://apis.io/providers/ferrum-health/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ferrum Health: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ferrum-health/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
